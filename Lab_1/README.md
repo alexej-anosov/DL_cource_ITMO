@@ -36,7 +36,7 @@
 ## Результаты
 По резльтатам обучения можно сказать, что для данной задачи с данными гиперпараметрами обучения, оптимизатор Adamax показал более стабильное обучени и немного лучший результат, по сравнению с оптимизатором Adam. Однако, Adamax оказался чуть медленнее, 1:54:34  против 1:38:34.
 
-![Validation loss](/images/validation_loss.png "Validation loss")
+![Validation loss](/Lab_1/images/validation_loss.png "Validation loss")
 
-![Validation F1-macro](/images/validation_f1macro.png "Validation F1-macro")
+![Validation F1-macro](/Lab_1/images/validation_f1macro.png "Validation F1-macro")
 
