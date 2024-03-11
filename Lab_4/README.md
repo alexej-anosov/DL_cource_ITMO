@@ -19,7 +19,7 @@
 Были проведены эксперименты с различным размером скрытого состояния: 64, 128, 256. Результаты представлены ниже.
 
 
-![Validation token-level F1-micro](/images/validation_token_level.png "Validation token_level F1-micro")
+![Validation token-level F1-micro](/Lab_4/images/validation_token_level.png "Validation token_level F1-micro")
 
 В качестве возможных улучшений можно предложить:
 1) Дообучать Bert на корпусе схожих с доменом текстов, что его эмбеддинги были максимально релевантные
