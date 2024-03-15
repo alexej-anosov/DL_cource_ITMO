@@ -40,7 +40,7 @@
 
 ![Validation MobileNetV2 F1-macro](/Lab_1/images/validation_f1macro.png "Validation MobileNetV2 F1-macro")
 
-UPD: Также была претестирована MobileNetV1 с оптимизатором Adam.
+UPD: Также была претестирована MobileNetV1 с оптимизатором Adam. Точность MobileNetV1 ниже, но скорость обучения выше - 1:11:21.
 
 ![Validation MobileNetV1 loss](/Lab_1/images/mobilenetv1_validation.png "Validation MobileNetV1 loss")
 
