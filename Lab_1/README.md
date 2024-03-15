@@ -36,7 +36,15 @@
 ## Результаты
 По резльтатам обучения можно сказать, что для данной задачи с данными гиперпараметрами обучения, оптимизатор Adamax показал более стабильное обучени и немного лучший результат, по сравнению с оптимизатором Adam. Однако, Adamax оказался чуть медленнее, 1:54:34  против 1:38:34.
 
-![Validation loss](/Lab_1/images/validation_loss.png "Validation loss")
+![Validation MobileNetV2 loss](/Lab_1/images/validation_loss.png "Validation MobileNetV2 loss")
 
-![Validation F1-macro](/Lab_1/images/validation_f1macro.png "Validation F1-macro")
+![Validation MobileNetV2 F1-macro](/Lab_1/images/validation_f1macro.png "Validation MobileNetV2 F1-macro")
+
+UPD: Также была претестирована MobileNetV1 с оптимизатором Adam.
+
+![Validation MobileNetV1 loss](/Lab_1/images/mobilenetv1_validation.png "Validation MobileNetV1 loss")
+
+![Validation MobileNetV1 F1-macro](/Lab_1/images/mobilenetv1_f1.png "Validation MobileNetV1 F1-macro")
+
+
 
